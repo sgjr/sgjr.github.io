@@ -1,3 +1,17 @@
+---
+layout:       post
+title:        "MySQL复制过滤的坑"
+subtitle:     "Upgrading Ele.me to Progressive Web App"
+header-img:   "img/MySQL.jpg"
+header-mask:  0.3
+catalog:      true
+multilingual: true
+tags:
+    - MySQL
+    - 数据库参数
+    
+---
+
 ### 介绍
 MySQL5.7官方文档关于相关参数的介绍：https://dev.mysql.com/doc/refman/5.7/en/change-replication-filter.html
 
@@ -13,7 +27,7 @@ START SLAVE SQL_THREAD;
 
 ### 问题描述
 在主库执行语句，如果不使用use db;  
-创建新表的语句不会在从库执行，进而导致主从错误
+DDL语句不会在从库执行，进而导致主从错误
 
 ### 场景复现
 
