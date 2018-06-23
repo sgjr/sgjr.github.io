@@ -2,8 +2,8 @@
 title: Pino Blog
 SEOTitle: 匹诺的博客 | Pino Blog
 header-img: img/214655vlatrm1teotlx1ex.png
-email: huxpro@gmail.com
-description: "关于数据库运维 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @PinoCao 的个人博客，与你一起发现更大的世界。"
+email: pincao1995@gmail.com
+description: "关于数据库运维 | MySQL DBA | 这里是 @PinoCao 的个人博客，与你一起发现更大的世界。"
 keyword: "DBA, PinoCao, 博客, 个人网站, 互联网, MySQL, Linux, 数据库, 运维"
 url: "https://sgjr.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -68,8 +68,8 @@ ga_domain: pinocao.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "写写代码，聊聊人生，<br>离开世界之前，一切都是过程"
+sidebar-avatar: /img/pinocao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -91,34 +91,7 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "51博客",
+        href: "http://blog.51cto.com/13544424"
     }
 ]
