@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1703ce23-a47f-451b-b770-83fa78d311dc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sgjr.github.io.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-08-16-miui6.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-09-04-is-pure-android-better.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-10-01-why-alibaba-ux-sucks.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-11-20-responsive-web-design.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-12-13-wechat-block-kuaidi.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-03-10-apple-event-2015.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-03-25-digital-native.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-03-31-e2e_user_scenarios.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-14-unix-linux-note.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-15-os-metro.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-05-11-see-u-ali.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-05-25-js-module-loader.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-15-alitrip-strategy.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-09-js-module-7day.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-09-22-js-version.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-28-how-designer-learn-fe.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-15-ios9-safari-web.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-28-css-sucks-2015.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-02-01-React-vs-Angular2.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-06-05-pwa-in-my-pov.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-10-20-pwa-qcon2016.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-20-sw-101-gdgdf.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-09-nextgen-web-pwa.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-06-25-you-are-slaves.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-12-upgrading-eleme-to-pwa.markdown" afterPath="" />
+    <list id="1703ce23-a47f-451b-b770-83fa78d311dc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list default="true" id="461615e4-50c6-47e7-89bd-bffd12c3998e" name="Revert: 初始化..." comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,7 +15,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="503">
+              <caret line="124" column="0" lean-forward="true" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +44,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1920" />
     <option name="height" value="1040" />
   </component>
@@ -87,11 +71,6 @@
             <path>
               <item name="sgjr.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="sgjr.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgjr.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgjr.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,6 +112,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1703ce23-a47f-451b-b770-83fa78d311dc" name="Default" comment="" />
+      <changelist id="461615e4-50c6-47e7-89bd-bffd12c3998e" name="Revert: 初始化..." comment="" />
       <created>1529735550892</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -141,12 +121,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -167,6 +147,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -189,8 +195,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        <state relative-caret-position="503">
+          <caret line="124" column="0" lean-forward="true" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
           <folding />
         </state>
       </provider>
