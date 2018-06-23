@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "MySQL复制过滤的坑"
-subtitle:     "Upgrading Ele.me to Progressive Web App"
+subtitle:     "replicate-ignore-db replicate-do-db"
 header-img:   "img/MySQL.jpg"
 header-mask:  0.3
 catalog:      true
