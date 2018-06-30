@@ -2,7 +2,7 @@
 layout:       post
 title:        "MySQL复制过滤的坑"
 subtitle:     "replicate-ignore-db replicate-do-db"
-header-img:   "img/mysql.jpg"
+header-img:   "img/MySQL.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true

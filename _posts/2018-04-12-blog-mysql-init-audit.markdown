@@ -2,7 +2,7 @@
 layout:       post
 title:        "MySQL利用init-connect增加访问审计功能异常"
 subtitle:     "init_connect"
-header-img:   "img/mysql.jpg"
+header-img:   "img/MySQL.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true
