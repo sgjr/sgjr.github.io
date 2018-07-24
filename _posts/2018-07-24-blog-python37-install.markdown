@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "python3.7安装后ssl问题境"
+title:        "python3.7安装后ssl问题"
 subtitle:     "python3.7"
 header-mask:  0.3
 catalog:      true
