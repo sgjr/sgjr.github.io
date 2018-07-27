@@ -94,7 +94,7 @@ Current database: *** NONE ***
 
 #### 异常处理
 ##### 分析
-由于test用户没有test.conn_log表的写权限，故无法进行审计所以报错
+通过查看erro log发现test用户没有test.conn_log表的写权限，导致init-connect中的sql内容无法进行，从而导致连接失败
 
 
 ##### 解决
