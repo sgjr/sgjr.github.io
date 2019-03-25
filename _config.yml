@@ -1,7 +1,7 @@
 # Site settings
 title: Pino Blog
 SEOTitle: 匹诺的博客 | Pino Blog
-header-img: img/base.png
+header-img: img/base2.jpg
 email: pincao1995@gmail.com
 description: "关于数据库运维 | MySQL DBA | 这里是 @PinoCao 的个人博客，与你一起发现更大的世界。"
 keyword: "DBA, PinoCao, 博客, 个人网站, 互联网, MySQL, Linux, 数据库, 运维"
@@ -68,7 +68,7 @@ ga_domain: pinocao.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，聊聊人生，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "95年的MySQL DBA，<br>喜欢研究新东西。"
 sidebar-avatar: /img/pinocao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -91,7 +91,7 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "51博客",
+        title: "我的51博客",
         href: "http://blog.51cto.com/13544424"
     }
 ]
