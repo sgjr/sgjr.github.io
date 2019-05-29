@@ -26,8 +26,8 @@ tags:
 安装好python依赖，修改脚本相关参数即可。
 
 ## 监控效果
-![](https://github.com/sgjr/sgjr.github.io/blob/master/_posts/image/monitor_view_20190529.png)
+![1](/img/in-post/monitor_view_20190529.png)
 ## 报警效果
-![](https://github.com/sgjr/sgjr.github.io/blob/master/_posts/image/alert_view_20190529.png)
+![1](/img/in-post/alert_view_20190529.png)
 
 
