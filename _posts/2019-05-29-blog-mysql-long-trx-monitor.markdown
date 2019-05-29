@@ -28,6 +28,6 @@ tags:
 ## 监控效果
 ![](https://github.com/sgjr/sgjr.github.io/blob/master/_posts/image/monitor_view_20190529.png)
 ## 报警效果
-![](https://github.com/sgjr/sgjr.github.io/blob/master/_posts/image/alter_view_20190529.png)
+![](https://github.com/sgjr/sgjr.github.io/blob/master/_posts/image/alert_view_20190529.png)
 
 
