@@ -7,7 +7,6 @@ catalog:      true
 multilingual: true
 tags:
     - MySQL
-    - MySQL5.7
 
 ---
 

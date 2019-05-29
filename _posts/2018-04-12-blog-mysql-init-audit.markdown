@@ -8,7 +8,6 @@ catalog:      true
 multilingual: true
 tags:
     - MySQL
-    - 数据库审计
 
 ---
 
